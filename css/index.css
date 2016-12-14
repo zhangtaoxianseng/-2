@@ -1,0 +1,105 @@
+*{margin:0;padding: 0;box-sizing: border-box;}
+#main{
+	width: 100%;
+	height: 16.25rem;
+	background: url(../img/2_02-fs8.png) no-repeat left center;
+	background-size:100% ;
+	float: left;
+	}
+.main_font{
+	width:4.82rem;
+	height: 1.17rem;
+	font-size: 0.28rem;
+	font-family: arial;
+	font-weight: bold;
+	color:#f76921 ;
+	margin: 2.47rem 0 0 1.41rem;
+}
+.main_invite{
+	width: 6.66rem;
+	height: 5.74rem;
+	background: url(../img/inviteCode@2x.png) no-repeat left center;
+	background-size: 100%;
+	margin:0.69rem 0 0 0.21rem;
+	position: relative;
+}
+.main_inviteCode{
+	width: 4.14rem;
+	height:0.72rem;
+	font-size: 0.72rem;
+	font-family:arial;
+	color: #2b0109;
+	position: absolute;
+	left: 1.6rem;
+	top: 2.8rem;
+	text-align: center;
+}
+.main_download{
+	width: 100%;
+	height: 1.31rem;
+}
+.main_downloadImg{
+	width: 2.62rem;
+	height: 1.21rem;
+	margin:0.1rem 2.44rem 0;
+}
+.main_DownloadCode{
+	width: 100%;
+	height:4.67rem;
+	padding: 0.78rem 1.25rem 0;
+}
+.main_ScanLife{
+	width: 2.09rem;
+	height: 2.6rem;
+	display: inline-block;
+	/*float: left;*/
+}
+.main_ScanLife_Img{
+	width: 2.09rem;
+	height: 2.09rem;
+	background: url(../img/ScanLife@2x.png) no-repeat left center;
+	background-size: 100%;
+}
+.main_ScanLife_mark{
+	width: 1.6rem;
+	height: 0.4rem;
+	line-height: 0.4rem;
+	background: #ff9c01;
+	color: #fff;
+	border-radius:0.1rem ;
+	font-size: 0.24rem;
+	text-align: center;
+	margin:0.1rem auto;
+}
+.main_ClickDownload{
+	width: 2.09rem;
+	height: 2.6rem;
+	display: inline-block;
+	margin-left: 0.54rem;
+	/*float: right;*/
+}
+.main_ClickDownload_Img{
+	width: 2.09rem;
+	height: 2.09rem;
+	background: url(../img/clickdownload@2x.png) no-repeat left center;
+	background-size:100%;	
+}
+.main_ClickDownload_mark{
+	width: 1.6rem;
+	height: 0.4rem;
+	line-height: 0.4rem;
+	background: #ff9c01;
+	color: #fff;
+	border-radius:0.1rem ;
+	font-size: 0.24rem;
+	text-align: center;
+	margin:0.1rem auto;
+}
+.main_DownloadMark{
+	width: 4.43rem;
+	height: 0.28rem;
+	background:url(../img/downloadCode@2x.png) no-repeat left center;
+	background-size: 100%;
+	margin: 0.38rem auto;
+	clear: both;
+}

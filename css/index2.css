@@ -1,0 +1,129 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+main{
+	width: 100%;
+	height: 22.71rem;
+	background: url(../img2/1-fs8.png) no-repeat left center;
+	background-size:100% ;
+}
+.main_top{
+	width: 100%;
+	height: 5.98rem;
+	padding: 2.8rem 1.71rem 0;
+}
+.main_inviteCode{
+	width: 4.05rem;
+	height: 0.72rem;
+	font-size:0.72rem;
+	font-family: arial;
+	font-weight: bold;
+	color: #f7063a;
+	text-align: center;
+}
+.main_arrows{
+	width: 1.59rem;
+	height: 1.42rem;
+	background: url(../img2/arrows@2x.png) no-repeat left center;
+	background-size: 100%;
+	margin: 1rem  0 0 1.8rem;
+}
+.main_center{
+	width: 100%;
+	height: 11.18rem;
+	float: left;
+}
+.main_centerOne{
+	width: 3.83rem;
+	font-size: 0.33rem;
+	font-family: arial;
+	color: #505050;
+	margin: 0.96rem 0 0 3.07rem ;
+}
+.main_centerTwo{
+	width: 3.85rem;
+	font-size: 0.33rem;
+	font-family: arial;
+	color: #505050;
+	margin: 1.35rem 0 0 0.37rem ;
+}
+.main_centerThree{
+	width: 3.85rem;
+	font-size: 0.33rem;
+	font-family: arial;
+	color: #505050;
+	margin: 1.38rem 0 0 3.25rem ;
+}
+.main_center span{
+	color: #8C6901;
+}
+.main_share{
+	width: 100%;
+	height: 5.6rem;
+	float: left;
+	position: relative;
+}
+.share_button{
+	width: 2.61rem;
+	height: 1.12rem;
+	background: url(../img2/sahre_button@2x.png) no-repeat left center;
+	background-size:100% ;
+	margin: 0.1rem 2.44rem;
+}
+.share_weibo{
+	width: 1.02rem;
+	height: 1.04rem;
+	background: url(../img2/weibo@2x.png) no-repeat left center;
+	background-size: 100%;
+	position: absolute;
+	left: 0.18rem;
+	top:0.86rem;
+}
+.share_qq{
+	width: 1.02rem;
+	height: 1.04rem;
+	background: url(../img2/QQ@2x.png) no-repeat left center;
+	background-size: 100%;
+	position: absolute;
+	left:1.29rem;
+	top: 1.68rem;
+}
+.share_weixin{
+	width: 1.02rem;
+	height: 1.04rem;
+	background: url(../img2/weixin@2x.png) no-repeat left center;
+	background-size: 100%;
+	position: absolute;
+	left: 2.58rem;
+	top: 2.09rem;
+}
+.share_kongjian{
+	width: 1.02rem;
+	height: 1.04rem;
+	background: url(../img2/kongjian@2x.png) no-repeat left center;
+	background-size: 100%;
+	position: absolute;
+	left: 3.91rem;
+	top: 2.09rem;
+}
+.share_duanxin{
+	width: 1.02rem;
+	height: 1.04rem;
+	background: url(../img2/duanxin@2x.png) no-repeat left center;
+	background-size: 100%;
+	position: absolute;
+	left: 5.21rem;
+	top: 1.68rem;
+}
+.share_friend{
+	width: 1.02rem;
+	height: 1.04rem;
+	background: url(../img2/friend@2x.png) no-repeat left center;
+	background-size: 100%;
+	position: absolute;
+	left: 6.32rem;
+	top: 0.86rem;
+
+}
